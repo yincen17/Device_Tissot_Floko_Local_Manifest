@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="yincen17/Tissot-Floko-Device-Tree" path="device/xiaomi/tissot" remote="github" />
+  <project name="DerpFest-Devices/device_xiaomi_msm8953-common" path="device/xiaomi/msm8953-common" remote="github" />
+  <project name="DerpFest-Devices/kernel_xiaomi_msm8953" path="kernel/xiaomi/msm8953" remote="github" />
+</manifest>
